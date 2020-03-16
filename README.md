@@ -2,7 +2,7 @@
 Basics of Google Speech to Text API
 
 ## Set up Google Cloud Account
-- Needs a valid credit Card to create an account
+- Needs a valid (International) credit Card to create an account
 https://console.cloud.google.com/
 
 ## Requirnments
